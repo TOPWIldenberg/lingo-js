@@ -1,5 +1,5 @@
-## Lingo Javascriptttt
-Tijdens deze opdracht ga je het spel Lingo programmeren in de web browser. Hierbij maak je gebruik van HTML, CSS en Javascript.
+## Lingo Javascript
+Dit deze opdracht ga je het spel Lingo programmeren in de web browser. Hierbij maak je gebruik van HTML, CSS en Javascript.
 
 De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
